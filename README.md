@@ -2,7 +2,7 @@
 - 👀 I’m interested in MERN STACK AND FULL STACK WEB DEVELOPMENT
 - 🌱 I’m currently learning PYTHON
 - 💞️ I’m looking to collaborate on MERN STACK
-- 📫 How to reach me DM me @gautamgaddam
+- 📫 How to reach me Twitter: @gautamgaddam
 
 <!---
 gowthamgaddam/gowthamgaddam is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
